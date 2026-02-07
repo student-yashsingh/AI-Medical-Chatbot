@@ -1,2 +1,1 @@
-# AI-Medical-Chatbot
-AI-powered medical chatbot built using LLMs, LangChain, Pinecone, Flask, and AWS. Uses Retrieval-Augmented Generation (RAG) to provide accurate, context-aware, and educational healthcare information through conversational AI, with strict safety boundaries and disclaimers. Not intended for diagnosis or prescriptions.
+# It's just the basic jupyter notebook work on which I am learning that how can we make a medical chatbot(can be run in the local envronment) step by step . In this leraning,I overall worked on  the RAG principles(i.e involving chunking,embedding models,vector embedding and in last pinecone vector db and alos used Open api key),Overall this learning is fantastic. 
